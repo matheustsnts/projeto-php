@@ -1,7 +1,7 @@
 # Aprendendo PHP Básico
 
  <div>
-  <p>Dedico todos os créditos e conhecimentos práticos da linguagem PHP ao School of Net que é uma plataforma de cursos online e recomendo muito para aprendizado de linguagem de programação, pois todos os conhecimentos que estão neste repositório, estou dedicando ao <s><a href="https://bit.ly/3sTLRJb">Curso de PHP Básico</a></s>.</p>
+  <p>Dedico todos os créditos e conhecimentos práticos da linguagem PHP ao School of Net que é uma plataforma de cursos online e recomendo muito para aprendizado de linguagem de programação, pois todos os conhecimentos que estão neste repositório, estou dedicando ao <b><a href="https://bit.ly/3sTLRJb">Curso de PHP Básico</a></b>.</p>
  <p>É o curso básico de PHP, com algumas modificações minhas próprias, referente a linguagem PHP.</p>
 </div>
 
